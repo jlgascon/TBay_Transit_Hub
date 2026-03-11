@@ -1,0 +1,15 @@
+ # Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Database (Never commit the state to version control)
+*.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
